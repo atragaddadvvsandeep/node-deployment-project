@@ -1,0 +1,37 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.8.2
+2 info using node@v18.20.8
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/azureuser/.npmrc
+5 silly config load:file:/usr/etc/npmrc
+6 verbose title npm install nodemon
+7 verbose argv "install" "nodemon" "--save-dev"
+8 verbose logfile logs-max:10 dir:/home/azureuser/.npm/_logs/2026-05-02T10_36_02_654Z-
+9 verbose logfile /home/azureuser/.npm/_logs/2026-05-02T10_36_02_654Z-debug-0.log
+10 silly packumentCache heap:484179968 maxSize:121044992 maxEntrySize:60522496
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose stack JSONParseError: Unexpected token ":" (0x3A) in JSON at position 9 while parsing near "\"scripts\": {\n  \"start\": \"node..."
+13 verbose stack     at /usr/lib/node_modules/npm/node_modules/read-package-json-fast/lib/index.js:7:61
+13 verbose stack     at async #initTree (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:265:21)
+13 verbose stack     at async Arborist.buildIdealTree (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:178:7)
+13 verbose stack     at async Promise.all (index 1)
+13 verbose stack     at async Arborist.reify (/usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/reify.js:131:5)
+13 verbose stack     at async Install.exec (/usr/lib/node_modules/npm/lib/commands/install.js:150:5)
+13 verbose stack     at async Npm.exec (/usr/lib/node_modules/npm/lib/npm.js:207:9)
+13 verbose stack     at async module.exports (/usr/lib/node_modules/npm/lib/cli/entry.js:74:5)
+14 error code EJSONPARSE
+15 error path /home/azureuser/package.json
+16 error JSON.parse Unexpected token ":" (0x3A) in JSON at position 9 while parsing near "\"scripts\": {\n  \"start\": \"node..."
+17 error JSON.parse Failed to parse JSON data.
+17 error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+18 silly unfinished npm timer reify 1777718163035
+19 silly unfinished npm timer reify:loadTrees 1777718163040
+20 silly unfinished npm timer idealTree:init 1777718163041
+21 verbose cwd /home/azureuser
+22 verbose os Linux 6.8.0-1052-azure
+23 verbose node v18.20.8
+24 verbose npm  v10.8.2
+25 verbose exit 1
+26 verbose code 1
+27 error A complete log of this run can be found in: /home/azureuser/.npm/_logs/2026-05-02T10_36_02_654Z-debug-0.log

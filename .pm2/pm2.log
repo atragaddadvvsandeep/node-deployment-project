@@ -1,0 +1,239 @@
+2026-05-02T09:17:23: PM2 log: ===============================================================================
+2026-05-02T09:17:23: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T09:17:23: PM2 log: Time                 : Sat May 02 2026 09:17:23 GMT+0000 (Coordinated Universal Time)
+2026-05-02T09:17:23: PM2 log: PM2 version          : 7.0.0
+2026-05-02T09:17:23: PM2 log: Node.js version      : 18.20.8
+2026-05-02T09:17:23: PM2 log: Current arch         : x64
+2026-05-02T09:17:23: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T09:17:23: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T09:17:23: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T09:17:23: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T09:17:23: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T09:17:23: PM2 log: Worker Interval      : 30000
+2026-05-02T09:17:23: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T09:17:23: PM2 log: Concurrent actions   : 2
+2026-05-02T09:17:23: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T09:17:23: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T09:17:23: PM2 log: ===============================================================================
+2026-05-02T09:17:24: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T09:17:24: PM2 log: App [app:0] online
+2026-05-02T09:20:08: PM2 log: Stopping app:app id:0
+2026-05-02T09:20:08: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2026-05-02T09:20:08: PM2 log: pid=1365 msg=process tree killed (1 pids)
+2026-05-02T09:20:08: PM2 log: PM2 successfully stopped
+2026-05-02T09:20:28: PM2 log: ===============================================================================
+2026-05-02T09:20:28: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T09:20:28: PM2 log: Time                 : Sat May 02 2026 09:20:28 GMT+0000 (Coordinated Universal Time)
+2026-05-02T09:20:28: PM2 log: PM2 version          : 7.0.0
+2026-05-02T09:20:28: PM2 log: Node.js version      : 18.20.8
+2026-05-02T09:20:28: PM2 log: Current arch         : x64
+2026-05-02T09:20:28: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T09:20:28: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T09:20:28: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T09:20:28: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T09:20:28: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T09:20:28: PM2 log: Worker Interval      : 30000
+2026-05-02T09:20:28: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T09:20:28: PM2 log: Concurrent actions   : 2
+2026-05-02T09:20:28: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T09:20:28: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T09:20:28: PM2 log: ===============================================================================
+2026-05-02T09:20:28: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T09:20:28: PM2 log: App [app:0] online
+2026-05-02T09:22:49: PM2 log: Stopping app:app id:0
+2026-05-02T09:22:49: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2026-05-02T09:22:49: PM2 log: pid=1531 msg=process tree killed (1 pids)
+2026-05-02T09:22:50: PM2 log: PM2 successfully stopped
+2026-05-02T09:22:59: PM2 log: ===============================================================================
+2026-05-02T09:22:59: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T09:22:59: PM2 log: Time                 : Sat May 02 2026 09:22:59 GMT+0000 (Coordinated Universal Time)
+2026-05-02T09:22:59: PM2 log: PM2 version          : 7.0.0
+2026-05-02T09:22:59: PM2 log: Node.js version      : 18.20.8
+2026-05-02T09:22:59: PM2 log: Current arch         : x64
+2026-05-02T09:22:59: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T09:22:59: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T09:22:59: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T09:22:59: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T09:22:59: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T09:22:59: PM2 log: Worker Interval      : 30000
+2026-05-02T09:22:59: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T09:22:59: PM2 log: Concurrent actions   : 2
+2026-05-02T09:22:59: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T09:22:59: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T09:22:59: PM2 log: ===============================================================================
+2026-05-02T09:22:59: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T09:22:59: PM2 log: App [app:0] online
+2026-05-02T09:29:26: PM2 log: App [dump:1] starting in -fork mode-
+2026-05-02T09:29:26: PM2 log: App [dump:1] online
+2026-05-02T09:29:50: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2026-05-02T09:29:50: PM2 log: Deleting process 0
+2026-05-02T09:29:50: PM2 log: Stopping app:app id:0
+2026-05-02T09:29:50: PM2 log: App [app:0] exited with code [0] via signal [SIGHUP]
+2026-05-02T09:29:50: PM2 log: App [dump:1] exited with code [0] via signal [SIGHUP]
+2026-05-02T09:29:50: PM2 log: App [dump:1] starting in -fork mode-
+2026-05-02T09:29:50: PM2 log: App [dump:1] online
+2026-05-02T09:29:50: PM2 log: pid=1815 msg=process tree killed (1 pids)
+2026-05-02T09:29:50: PM2 log: Deleting process 1
+2026-05-02T09:29:50: PM2 log: Stopping app:dump id:1
+2026-05-02T09:29:50: PM2 log: App [dump:1] exited with code [0] via signal [SIGINT]
+2026-05-02T09:29:50: PM2 log: pid=2230 msg=process tree killed (1 pids)
+2026-05-02T09:29:50: PM2 log: Exited peacefully
+2026-05-02T09:38:21: PM2 log: ===============================================================================
+2026-05-02T09:38:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T09:38:21: PM2 log: Time                 : Sat May 02 2026 09:38:21 GMT+0000 (Coordinated Universal Time)
+2026-05-02T09:38:21: PM2 log: PM2 version          : 7.0.0
+2026-05-02T09:38:21: PM2 log: Node.js version      : 18.20.8
+2026-05-02T09:38:21: PM2 log: Current arch         : x64
+2026-05-02T09:38:21: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T09:38:21: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T09:38:21: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T09:38:21: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T09:38:21: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T09:38:21: PM2 log: Worker Interval      : 30000
+2026-05-02T09:38:21: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T09:38:21: PM2 log: Concurrent actions   : 2
+2026-05-02T09:38:21: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T09:38:21: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T09:38:21: PM2 log: ===============================================================================
+2026-05-02T09:38:21: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T09:38:21: PM2 log: App [app:0] online
+2026-05-02T09:38:22: PM2 log: Stopping app:app id:0
+2026-05-02T09:38:22: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2026-05-02T09:38:23: PM2 log: pid=1255 msg=process tree killed (1 pids)
+2026-05-02T09:38:23: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T09:38:23: PM2 log: App [app:0] online
+2026-05-02T09:39:20: PM2 log: Stopping app:app id:0
+2026-05-02T09:39:20: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2026-05-02T09:39:20: PM2 log: pid=1279 msg=process tree killed (1 pids)
+2026-05-02T09:39:20: PM2 log: PM2 successfully stopped
+2026-05-02T09:41:40: PM2 log: ===============================================================================
+2026-05-02T09:41:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T09:41:40: PM2 log: Time                 : Sat May 02 2026 09:41:40 GMT+0000 (Coordinated Universal Time)
+2026-05-02T09:41:40: PM2 log: PM2 version          : 7.0.0
+2026-05-02T09:41:40: PM2 log: Node.js version      : 18.20.8
+2026-05-02T09:41:40: PM2 log: Current arch         : x64
+2026-05-02T09:41:40: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T09:41:40: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T09:41:40: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T09:41:40: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T09:41:40: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T09:41:40: PM2 log: Worker Interval      : 30000
+2026-05-02T09:41:40: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T09:41:40: PM2 log: Concurrent actions   : 2
+2026-05-02T09:41:40: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T09:41:40: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T09:41:40: PM2 log: ===============================================================================
+2026-05-02T09:41:41: PM2 log: PM2 successfully stopped
+2026-05-02T09:42:00: PM2 log: ===============================================================================
+2026-05-02T09:42:00: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T09:42:00: PM2 log: Time                 : Sat May 02 2026 09:42:00 GMT+0000 (Coordinated Universal Time)
+2026-05-02T09:42:00: PM2 log: PM2 version          : 7.0.0
+2026-05-02T09:42:00: PM2 log: Node.js version      : 18.20.8
+2026-05-02T09:42:00: PM2 log: Current arch         : x64
+2026-05-02T09:42:00: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T09:42:00: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T09:42:00: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T09:42:00: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T09:42:00: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T09:42:00: PM2 log: Worker Interval      : 30000
+2026-05-02T09:42:00: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T09:42:00: PM2 log: Concurrent actions   : 2
+2026-05-02T09:42:00: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T09:42:00: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T09:42:00: PM2 log: ===============================================================================
+2026-05-02T09:42:00: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T09:42:00: PM2 log: App [app:0] online
+2026-05-02T09:42:03: PM2 log: Stopping app:app id:0
+2026-05-02T09:42:03: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2026-05-02T09:42:03: PM2 log: pid=1081 msg=process tree killed (1 pids)
+2026-05-02T09:42:03: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T09:42:03: PM2 log: App [app:0] online
+2026-05-02T09:42:10: PM2 log: Stopping app:app id:0
+2026-05-02T09:42:10: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2026-05-02T09:42:10: PM2 log: pid=1114 msg=process tree killed (1 pids)
+2026-05-02T09:42:10: PM2 log: PM2 successfully stopped
+2026-05-02T09:43:03: PM2 log: ===============================================================================
+2026-05-02T09:43:03: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T09:43:03: PM2 log: Time                 : Sat May 02 2026 09:43:03 GMT+0000 (Coordinated Universal Time)
+2026-05-02T09:43:03: PM2 log: PM2 version          : 7.0.0
+2026-05-02T09:43:03: PM2 log: Node.js version      : 18.20.8
+2026-05-02T09:43:03: PM2 log: Current arch         : x64
+2026-05-02T09:43:03: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T09:43:03: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T09:43:03: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T09:43:03: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T09:43:03: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T09:43:03: PM2 log: Worker Interval      : 30000
+2026-05-02T09:43:03: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T09:43:03: PM2 log: Concurrent actions   : 2
+2026-05-02T09:43:03: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T09:43:03: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T09:43:03: PM2 log: ===============================================================================
+2026-05-02T09:43:04: PM2 log: PM2 successfully stopped
+2026-05-02T10:08:22: PM2 log: ===============================================================================
+2026-05-02T10:08:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T10:08:22: PM2 log: Time                 : Sat May 02 2026 10:08:22 GMT+0000 (Coordinated Universal Time)
+2026-05-02T10:08:22: PM2 log: PM2 version          : 7.0.0
+2026-05-02T10:08:22: PM2 log: Node.js version      : 18.20.8
+2026-05-02T10:08:22: PM2 log: Current arch         : x64
+2026-05-02T10:08:22: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T10:08:22: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T10:08:22: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T10:08:22: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T10:08:22: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T10:08:22: PM2 log: Worker Interval      : 30000
+2026-05-02T10:08:22: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T10:08:22: PM2 log: Concurrent actions   : 2
+2026-05-02T10:08:22: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T10:08:22: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T10:08:22: PM2 log: ===============================================================================
+2026-05-02T10:08:22: PM2 log: PM2 successfully stopped
+2026-05-02T10:08:49: PM2 log: ===============================================================================
+2026-05-02T10:08:49: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T10:08:49: PM2 log: Time                 : Sat May 02 2026 10:08:49 GMT+0000 (Coordinated Universal Time)
+2026-05-02T10:08:49: PM2 log: PM2 version          : 7.0.0
+2026-05-02T10:08:49: PM2 log: Node.js version      : 18.20.8
+2026-05-02T10:08:49: PM2 log: Current arch         : x64
+2026-05-02T10:08:49: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T10:08:49: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T10:08:49: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T10:08:49: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T10:08:49: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T10:08:49: PM2 log: Worker Interval      : 30000
+2026-05-02T10:08:49: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T10:08:49: PM2 log: Concurrent actions   : 2
+2026-05-02T10:08:49: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T10:08:49: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T10:08:49: PM2 log: ===============================================================================
+2026-05-02T10:08:49: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T10:08:49: PM2 log: App [app:0] online
+2026-05-02T10:09:59: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2026-05-02T10:09:59: PM2 log: Deleting process 0
+2026-05-02T10:09:59: PM2 log: Stopping app:app id:0
+2026-05-02T10:09:59: PM2 log: App [app:0] exited with code [0] via signal [SIGHUP]
+2026-05-02T10:09:59: PM2 log: pid=4514 msg=process tree killed (1 pids)
+2026-05-02T10:09:59: PM2 log: Exited peacefully
+2026-05-02T10:10:23: PM2 log: ===============================================================================
+2026-05-02T10:10:23: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2026-05-02T10:10:23: PM2 log: Time                 : Sat May 02 2026 10:10:23 GMT+0000 (Coordinated Universal Time)
+2026-05-02T10:10:23: PM2 log: PM2 version          : 7.0.0
+2026-05-02T10:10:23: PM2 log: Node.js version      : 18.20.8
+2026-05-02T10:10:23: PM2 log: Current arch         : x64
+2026-05-02T10:10:23: PM2 log: PM2 home             : /home/azureuser/.pm2
+2026-05-02T10:10:23: PM2 log: PM2 PID file         : /home/azureuser/.pm2/pm2.pid
+2026-05-02T10:10:23: PM2 log: RPC socket file      : /home/azureuser/.pm2/rpc.sock
+2026-05-02T10:10:24: PM2 log: BUS socket file      : /home/azureuser/.pm2/pub.sock
+2026-05-02T10:10:24: PM2 log: Application log path : /home/azureuser/.pm2/logs
+2026-05-02T10:10:24: PM2 log: Worker Interval      : 30000
+2026-05-02T10:10:24: PM2 log: Process dump file    : /home/azureuser/.pm2/dump.pm2
+2026-05-02T10:10:24: PM2 log: Concurrent actions   : 2
+2026-05-02T10:10:24: PM2 log: SIGTERM timeout      : 1600
+2026-05-02T10:10:24: PM2 log: Runtime Binary       : /usr/bin/node
+2026-05-02T10:10:24: PM2 log: ===============================================================================
+2026-05-02T10:10:24: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T10:10:24: PM2 log: App [app:0] online
+2026-05-02T10:39:24: PM2 log: Stopping app:app id:0
+2026-05-02T10:39:24: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2026-05-02T10:39:24: PM2 log: pid=707 msg=process tree killed (1 pids)
+2026-05-02T10:39:24: PM2 log: App [app:0] starting in -fork mode-
+2026-05-02T10:39:24: PM2 log: App [app:0] online
